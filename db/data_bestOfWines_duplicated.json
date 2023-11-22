@@ -1,0 +1,489 @@
+[
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 142.0,
+            "currency": "euro"
+        },
+        "name": "Almaviva Puente Alto 2019",
+        "color": "Red",
+        "producer": "Almaviva",
+        "vintage": 2019,
+        "region": "Chile, Chile",
+        "variety": [
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Carmenere"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/26872_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 95.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 97.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.75
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 129.0,
+            "currency": "euro"
+        },
+        "name": "Beaulieu Vineyard Georges De Latour Private Reserve Cabernet Sauvignon 2019",
+        "color": "Red",
+        "producer": "Beaulieu Vineyard",
+        "vintage": 2019,
+        "region": "Napa Valley, United States",
+        "variety": [
+            "Cabernet Sauvignon"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/31173_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 94.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 100.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.5
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 139.0,
+            "currency": "euro"
+        },
+        "name": "Ceretto Barbaresco Bricco Asili 2019",
+        "color": "Red",
+        "producer": "Ceretto",
+        "vintage": 2019,
+        "region": "Tuscany, Italy",
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/28960_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 91.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 93.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.5
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 154.95,
+            "currency": "euro"
+        },
+        "name": "Chateau Bellevue Mondotte 2019",
+        "color": "Red",
+        "producer": "Chateau Bellevue Mondotte",
+        "vintage": 2019,
+        "region": "St. Emilion, Bordeaux, France",
+        "variety": [
+            "Merlot",
+            "Cabernet Franc",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/32218_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 95.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 95.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.5
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 132.0,
+            "currency": "euro"
+        },
+        "name": "Chateau Calon Segur 2019",
+        "color": "Red",
+        "producer": "Chateau Calon Segur",
+        "vintage": 2019,
+        "region": "St. Estephe, Bordeaux, France",
+        "variety": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/28364_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 93.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 96.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.5
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 132.95,
+            "currency": "euro"
+        },
+        "name": "Chateau Canon 2019",
+        "color": "Red",
+        "producer": "Chateau Canon",
+        "vintage": 2019,
+        "region": "St. Emilion, Bordeaux, France",
+        "variety": [
+            "Merlot",
+            "Cabernet Franc",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/28365_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 97.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 97.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.75
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 199.0,
+            "currency": "euro"
+        },
+        "name": "Chateau Lif 2019",
+        "color": "Red",
+        "producer": "Chateau Lif",
+        "vintage": 2019,
+        "region": "St. Emilion, Bordeaux, France",
+        "variety": [
+            "Merlot",
+            "Cabernet Franc",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/28492_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 94.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 93.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.25
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 129.0,
+            "currency": "euro"
+        },
+        "name": "Chateau Peby Faugeres 2019",
+        "color": "Red",
+        "producer": "Chateau Peby Faugeres",
+        "vintage": 2019,
+        "region": "St. Emilion, Bordeaux, France",
+        "variety": [
+            "Merlot",
+            "Cabernet Franc",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/32215_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 95.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 97.0
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 109.0,
+            "currency": "euro"
+        },
+        "name": "Chateau Pontet Canet 2019",
+        "color": "Red",
+        "producer": "Chateau Pontet Canet",
+        "vintage": 2019,
+        "region": "Pauillac, Bordeaux, France",
+        "variety": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/30317_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 99.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 99.0
+            },
+            {
+                "name": "Jancis Robinson",
+                "rating": 18.0
+            },
+            {
+                "name": "Bow",
+                "rating": 9.25
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 139.0,
+            "currency": "euro"
+        },
+        "name": "Daou Vineyards Soul Of A Lion 2019",
+        "color": "Red",
+        "producer": "Daou Vineyards",
+        "vintage": 2019,
+        "region": "Central Coast, United States",
+        "variety": [
+            "Cabernet Sauvignon"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/31545_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 97.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 95.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.75
+            },
+            {
+                "name": "Falstaff",
+                "rating": 97.0
+            },
+            {
+                "name": "Wine Enthusiast",
+                "rating": 95.0
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 132.0,
+            "currency": "euro"
+        },
+        "name": "Kosta Browne Pinot Noir Gaps Crown Vineyard 2019",
+        "color": "Red",
+        "producer": "Kosta Browne",
+        "vintage": 2019,
+        "region": "Sonoma, United States",
+        "variety": [
+            "Pinot Noir"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/28406_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 95.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.5
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 129.0,
+            "currency": "euro"
+        },
+        "name": "Patria Avoyelles 2019",
+        "color": "Red",
+        "producer": "Patria",
+        "vintage": 2019,
+        "region": "Napa Valley, United States",
+        "variety": [
+            "Cabernet Sauvignon",
+            "Cabernet Franc",
+            "Petit Verdot"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/29471_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 97.0
+            },
+            {
+                "name": "Jeb Dunnuck",
+                "rating": 100.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.75
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 159.0,
+            "currency": "euro"
+        },
+        "name": "Penfolds Bin 169 2019",
+        "color": "Red",
+        "producer": "Penfolds",
+        "vintage": 2019,
+        "region": "South Australia, Australia",
+        "variety": [
+            "Cabernet Sauvignon"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/30695_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 97.0
+            },
+            {
+                "name": "James Suckling",
+                "rating": 97.0
+            },
+            {
+                "name": "Bow",
+                "rating": 8.75
+            },
+            {
+                "name": "Falstaff",
+                "rating": 97.0
+            }
+        ]
+    },
+    {
+        "store": "Best of Wines",
+        "price": {
+            "value": 142.0,
+            "currency": "euro"
+        },
+        "name": "Realm The Bard 2019",
+        "color": "Red",
+        "producer": "Realm",
+        "vintage": 2019,
+        "region": "Napa Valley, United States",
+        "variety": [
+            "Cabernet Sauvignon",
+            "Merlot",
+            "Cabernet Franc",
+            "Petit Verdot",
+            "Bordeaux Blend"
+        ],
+        "size": 750,
+        "image": [
+            "https://bestofwines.com/wine-images/27715_big.jpg"
+        ],
+        "ratings": [
+            {
+                "name": "Robert Parker",
+                "rating": 97.0
+            },
+            {
+                "name": "Vinous",
+                "rating": 96.0
+            },
+            {
+                "name": "Bow",
+                "rating": 9.0
+            }
+        ]
+    }
+]
